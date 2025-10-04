@@ -1,2 +1,4 @@
 - Hi, I’m Monaim
-- Sometimes i do be reward hacking
+- Building something!
+- Interests : ML/AI Engineering
+- industries: Assurance, Climate, financial services. 
