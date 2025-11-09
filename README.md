@@ -1,4 +1,2 @@
 - Hi, I’m Monaim
-- Building something!
-- Interests : ML/AI Engineering
-- industries: financial services, Assurance/Compliance, Climate, Geo-spatial. 
+- Interests : ML/AI Engineering, i do be reward-hacking sometimes
