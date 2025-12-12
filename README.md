@@ -1,3 +1,3 @@
-- Hi, It's Monaim (or Moun's)
+- Hi
 - Interests : ML/AI Engineering.
 - I do be reward-hacking sometimes
